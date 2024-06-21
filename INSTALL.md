@@ -1,19 +1,13 @@
-### [Foobar](https://foobar.com)
-
-#### Install using Git
-
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-```bash
-git clone https://github.com/dracula/foobar.git
-```
+### [AdiIRC](https://adiirc.com/)
 
 #### Install manually
 
-Download using the [GitHub `.zip` download](https://github.com/dracula/foobar/archive/main.zip) option and unzip them.
+1. Download using the [GitHub `.zip` download](https://github.com/dracula/adiirc/archive/main.zip) option and unzip them.
+2. Open your AdiIRC
+3. Click `File > Themes > Install new`
+4. Guide to `Dracula.ini`
 
 #### Activating theme
 
-1. Do this;
-2. Then that;
-3. Boom! It's working ✨
+1. Click `File > Themes`
+2. Select a theme from the list
