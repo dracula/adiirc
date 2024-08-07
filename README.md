@@ -12,9 +12,9 @@ All instructions can be found at [draculatheme.com/adiirc](https://draculatheme.
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/adiirc/graphs/contributors).
 
-| [![Kirill Stepkin](https://github.com/zeretkk.png?size=100)](https://github.com/zeretkk) | 
+| [![Kirill Stepkin](https://github.com/zeretkk.png?size=100)](https://github.com/zeretkk) |
 | ---------------------------------------------------------------------------------------- |
-| [Kirill Stepkin](https://github.com/zeretkk)                                                                               |
+| [Kirill Stepkin](https://github.com/zeretkk)                                             |
 
 ## Community
 
